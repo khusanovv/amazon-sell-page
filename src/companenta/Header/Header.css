@@ -16,7 +16,12 @@
     font-size: 34px;
 }
 .header .header__link{
-    background-color: blue;
-    color: black;
-    z-index: 54;
+    background-color: #f90;
+    border: 2px solid #f90;
+    box-shadow: 0 0 16px rgb(0 0 0 / 20%);
+    color: #232f3e;
+    border-radius: 20px;
+    display: inline-block;
+    font: 700 16px/16px AEmb,Helvetica,Arial,sans-serif!important;
+    padding: 10px 22px;
 }
