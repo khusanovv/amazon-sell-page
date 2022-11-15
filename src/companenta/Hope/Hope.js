@@ -35,6 +35,7 @@ const Hope = () => {
               quality of the product. They love the convenience, the shipping,
               they're already there. So it was just a matter of introducing them
               to our brand. then we've got them. They keep reordering on
+              Amazon brand. then we've got them. They keep reordering on
               Amazon.”
             </p>
           </div>
