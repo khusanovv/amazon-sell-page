@@ -1,3 +1,22 @@
 .header{
+    /* width: 100%; */
+    height: 80px ;
+    display: flex;
+    /* padding: 0px 88px; */
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    background-color: #fff;
     width: 100%;
+    gap: 350px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.247);
+    z-index: 45454;
+}
+.header .header__title{
+    font-size: 34px;
+}
+.header .header__link{
+    background-color: blue;
+    color: black;
+    z-index: 54;
 }
