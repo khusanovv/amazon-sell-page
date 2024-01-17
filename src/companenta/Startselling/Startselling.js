@@ -9,7 +9,7 @@ const Startselling = () => {
           <h1>Start selling today</h1>
           <p>
             Put your products in front of the millions of customers who search
-            Amazon.com every day.
+            Amazon.com every days.
           </p>
           <button>Sign up</button>
           <p className="startselling__desc--price">
