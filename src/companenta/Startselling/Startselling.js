@@ -13,7 +13,7 @@ const Startselling = () => {
           </p>
           <button>Sign up</button>
           <p className="startselling__desc--price">
-            $39.99 a month + selling fees
+            $39.99 a month + selling fees wiht Boburshoh Khusanov
           </p>
         </div>
         <div className="startselling__image">
