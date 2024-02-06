@@ -1,5 +1,6 @@
 
 import './App.css';
+import react from "React":
 import Aboutsell from './companenta/Aboutsell/Aboutsell';
 import Become from './companenta/Become/Become';
 import Benifist from './companenta/Benifits/Benifits';
